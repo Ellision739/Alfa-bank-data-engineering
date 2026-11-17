@@ -1,0 +1,21 @@
+# Local environments
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Credentials / local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# External/raw datasets (not part of this archive)
+*.parquet
+*.csv
+*.jsonl
+
+# OS files
+.DS_Store
+Thumbs.db

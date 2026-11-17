@@ -1,0 +1,16 @@
+5 кейс
+stage__bounty_05_match_gold
+stage__bounty_05_match_events
+mart__bounty_05_outcomes
+
+22 кейс
+mart__hero_counterpick_metrics
+stage__hero_match
+stage__heroes_dict
+
+23 кейс
+stage__case23_nickname_clean1
+stage__case23_nickname_unique1
+mart__case23_nickname_llm_pilot1
+mart__case23_nickname_1000_b01
+mart__case23_nickname_1000_single
